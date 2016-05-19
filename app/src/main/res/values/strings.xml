@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BarcodeExample</string>
+    <string name="fixedName">Fixed Scan!</string>
+    <string name="scan">Scan now!</string>
+    <string name="imgDesc">Fixed QR</string>
+    <string name="detectorError">Detector Can't start</string>
+</resources>
